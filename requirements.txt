@@ -6,3 +6,5 @@ pillow
 opencv-python-headless
 matplotlib
 pandas
+lime
+scikit-image
